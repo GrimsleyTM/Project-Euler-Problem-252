@@ -1,0 +1,9 @@
+Number of triangles = n * (n-1) * (n-2) / 6
+	for n=500: 20,708,500
+Number of triangles that don't enclose another point (calculated in-program)
+	for n=20 :       456
+	for n=50 :     3,872
+	for n=100:    17,113
+	for n=250:   118,948
+	for n=500:   487,135
+	
